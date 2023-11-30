@@ -2,5 +2,5 @@
 
 - Importación de tablas externas desde archivos CSV
 - Importación de tablas externas desde archivos SQL
-- Redefinición de tipos de datos y modificadores de las tablas mediante sentencia DDL
+- Redefinición de nombres de tablas, tipos de datos y modificadores mediante sentencia DDL
 - Realización de consultas mediante sentencia DML 
